@@ -1,0 +1,10 @@
+metric,value
+True Positive (TP),162
+True Negative (TN),1155
+False Positive (FP),0
+False Negative (FN),0
+accuracy,1.0
+precision,1.0
+recall,1.0
+f1_score,1.0
+error_rate,0.0
